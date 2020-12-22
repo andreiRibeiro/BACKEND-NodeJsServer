@@ -1,0 +1,17 @@
+{"name":"Andrei Ribeiro","gender":"M","birth":"","country":"","email":"andreiribeiro.sc@gmail.com","password":"hahwhw","photo":"dist/img/boxed-bg.jpg","admin":false,"register":"2020-12-21T17:38:59.159Z","_id":"2eEx4LeDkzopRcGu"}
+{"name":"Jeffes","birth":"","country":"Brazil","email":"jeff@gmail.com","password":"asas","photo":"dist/img/boxed-bg.jpg","admin":false,"register":"2020-12-21T17:22:37.699Z","_id":"W4DtajHtrc0EZ9CF"}
+{"name":"Duda Linda","birth":"","country":"","email":"duda@gmail.com","password":"teste123","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-21T17:26:23.123Z","_id":"WCU1eAvaFg6OzTcB"}
+{"name":"Andrei","birth":"","country":"","email":"andrei@gmail.com","password":"teste123","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-21T16:32:04.696Z","_id":"WhTZrbmZlXcAdygG"}
+{"name":"Andrei","birth":"","country":"","email":"andrei@gmail.com","password":"teste123","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-22T18:20:05.455Z","_id":"WhTZrbmZlXcAdygG"}
+{"$$deleted":true,"_id":"WhTZrbmZlXcAdygG"}
+{"name":"Andrei Antonio Ribeiro","gender":"M","birth":"","country":"","email":"andreiribeiro.sc@gmail.com","password":"hahwhw","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-22T18:22:11.407Z","_id":"2eEx4LeDkzopRcGu"}
+{"name":"Eduarda Fonseca","gender":"F","birth":"","country":"","email":"duda@gmail.com","password":"teste123","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-22T18:22:39.510Z","_id":"WCU1eAvaFg6OzTcB"}
+{"name":"Jeffes Matias","birth":"","country":"Brazil","email":"jeff@gmail.com","password":"asas","photo":"dist/img/boxed-bg.jpg","admin":false,"register":"2020-12-22T18:23:05.586Z","_id":"W4DtajHtrc0EZ9CF"}
+{"name":"Duda Fonseca","gender":"F","birth":"","country":"","email":"duda@gmail.com","password":"teste123","photo":"dist/img/boxed-bg.jpg","admin":true,"register":"2020-12-22T18:23:14.038Z","_id":"WCU1eAvaFg6OzTcB"}
+{"name":"Jõao de Deus","gender":"M","birth":"","country":"Brazil","email":"joa@gmail.com","password":"sdsad","photo":"dist/img/boxed-bg.jpg","admin":false,"register":"2020-12-22T18:23:56.951Z","_id":"fH46d7kEFNoAiZuS"}
+{"name":"Vanessa Alves Dias","gender":"F","birth":"","country":"","email":"vanessa@gmail.com","password":"dsdsds","photo":"dist/img/boxed-bg.jpg","admin":false,"register":"2020-12-22T18:24:53.048Z","_id":"gVgKKIY1tLQ7lx5g"}
+{"name":"Andrei Antonio Ribeiro","gender":"M","birth":"","country":"","email":"andreiribeiro.sc@gmail.com","password":"hahwhw","photo":"dist/img/user.jpg","admin":true,"register":"2020-12-22T18:29:02.520Z","_id":"2eEx4LeDkzopRcGu"}
+{"name":"Duda Fonseca","gender":"F","birth":"","country":"","email":"duda@gmail.com","password":"teste123","photo":"dist/img/user.jpg","admin":true,"register":"2020-12-22T18:32:47.795Z","_id":"WCU1eAvaFg6OzTcB"}
+{"name":"Jeffes Matias","gender":"F","birth":"","country":"Brazil","email":"jeff@gmail.com","password":"asas","photo":"dist/img/user.jpg","admin":false,"register":"2020-12-22T18:32:51.314Z","_id":"W4DtajHtrc0EZ9CF"}
+{"name":"Jõao de Deus","gender":"M","birth":"","country":"Brazil","email":"joa@gmail.com","password":"sdsad","photo":"dist/img/user.jpg","admin":false,"register":"2020-12-22T18:32:53.676Z","_id":"fH46d7kEFNoAiZuS"}
+{"name":"Vanessa Alves Dias","gender":"F","birth":"","country":"","email":"vanessa@gmail.com","password":"dsdsds","photo":"dist/img/user.jpg","admin":false,"register":"2020-12-22T18:32:55.841Z","_id":"gVgKKIY1tLQ7lx5g"}
